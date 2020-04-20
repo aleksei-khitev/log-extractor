@@ -1,0 +1,35 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.akhitev'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+ext {
+    slf4jVersion = '1.7.30'
+    logbackVersion = '1.2.3'
+    junitVersion = '4.12'
+    hamcrestVersion = '1.3'
+
+    misc = [
+        slf4jJcl    : "org.slf4j:jcl-over-slf4j:$slf4jVersion",
+        logback     : "ch.qos.logback:logback-classic:$logbackVersion",
+        junit       : "junit:junit:$junitVersion",
+        hamcrestCore    : "org.hamcrest:hamcrest-core:$hamcrestVersion",
+        hamcrestLib    : "org.hamcrest:hamcrest-library:$hamcrestVersion"
+    ]
+}
+
+dependencies {
+    compile misc.slf4jJcl
+    compile misc.logback
+    testCompile misc.junit
+    testCompile misc.hamcrestCore
+    testCompile misc.hamcrestLib
+}

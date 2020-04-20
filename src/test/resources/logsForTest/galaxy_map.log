@@ -1,0 +1,19 @@
+2020-04-08 17:17:01,974 689  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-08 17:17:02,373 1088 [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 371ms. Found 14 JPA repository interfaces.
+2020-04-08 17:17:02,860 1575 [JavaFX-Launcher] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-08 17:17:02,910 1625 [JavaFX-Launcher] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version [WORKING]
+2020-04-08 17:17:03,078 1793 [JavaFX-Launcher] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-08 17:17:08,435 7150 [JavaFX-Launcher] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-04-08 17:17:08,990 7705 [JavaFX-Launcher] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator null
+2020-04-08 17:17:10,165 8880 [JavaFX-Launcher] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-08 17:17:10,175 8890 [JavaFX-Launcher] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-08 21:18:33,141 533  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-08 21:18:33,463 855  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 309ms. Found 14 JPA repository interfaces.
+2020-04-08 21:18:33,887 1279 [JavaFX-Launcher] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-08 21:18:33,933 1325 [JavaFX-Launcher] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version [WORKING]
+2020-04-08 21:18:34,074 1466 [JavaFX-Launcher] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-08 21:18:37,106 4498 [JavaFX-Launcher] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-04-08 21:18:37,454 4846 [JavaFX-Launcher] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator null
+2020-04-08 21:18:38,165 5557 [JavaFX-Launcher] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-08 21:18:38,172 5564 [JavaFX-Launcher] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-08 21:19:09,843 37235 [JavaFX Application Thread] INFO  r.a.r.s.c.s.EditSystemDialogController - Запрос UPDATE Star_System SET name = 'Boron', statehood_id = 0, super_statehood_id = 0, system_importance = 3, coordinateX = 360.6666666666667, coordinateY = 660.6666666666666 WHERE id = 243 успешно сохранен в файл

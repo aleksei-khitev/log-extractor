@@ -1,0 +1,1254 @@
+2020-04-03 10:17:45,102 499  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-03 10:17:45,267 664  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 145ms. Found 5 JPA repository interfaces.
+2020-04-03 10:17:45,589 986  [JavaFX-Launcher] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-03 10:17:45,654 1051 [JavaFX-Launcher] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version [WORKING]
+2020-04-03 10:17:45,805 1202 [JavaFX-Launcher] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-03 10:17:48,467 3864 [JavaFX-Launcher] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-04-03 10:17:48,757 4154 [JavaFX-Launcher] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator null
+2020-04-03 10:17:49,310 4707 [JavaFX-Launcher] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-03 10:17:49,317 4714 [JavaFX-Launcher] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-03 10:17:51,095 6492 [JavaFX Application Thread] INFO  r.a.r.m.c.MilitaryController - stateHoods: [Система Sol [320.00, 695.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Proxima [360.00, 710.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Wolf [341.00, 668.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross [395.00, 741.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Leonis [431.00, 687.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kanohi [461.00, 707.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Canton [465.00, 625.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система New London [468.00, 604.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Dakota [416.00, 600.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon [382.00, 579.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Tau Ceti [354.00, 606.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ceti [354.00, 629.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Eridani [322.00, 555.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon Ind [312.00, 568.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Altair [280.00, 590.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Sirius [301.00, 675.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Orion [280.00, 655.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Cooke [315.00, 731.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Regula [249.00, 730.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kapteya [177.00, 725.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross 128 [198.00, 757.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Beta Durani [269.00, 762.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Jericho [378.00, 779.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Signet [380.00, 809.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Deneb [390.00, 850.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Vega [520.00, 900.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Delphi [475.00, 801.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Norsa [485.00, 847.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eudu [502.00, 869.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Muga [571.00, 890.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tychola [642.00, 880.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tir [659.00, 843.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Zendamor [619.00, 830.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Klath [560.00, 820.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eshar [608.00, 791.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Davala Than [710.00, 815.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sorpigal [775.00, 771.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tavalan [644.00, 770.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Nocalo [503.00, 787.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Pagati [538.00, 761.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Shengol [548.00, 738.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Minbar [565.00, 715.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tr`Es`Na [562.00, 656.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Solta Gan [590.00, 676.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Drala Toth [580.00, 615.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Valusha [609.00, 623.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Trigati [660.00, 645.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sh`Lekk`Tha [542.00, 560.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Ralafe [627.00, 730.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tala [662.00, 702.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tro`Kact [690.00, 690.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Thessa [694.00, 727.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Batain [537.00, 667.00]
+Принадлежность: Centauri Republic, Система Courtor [482.00, 637.00]
+Принадлежность: Centauri Republic, Система Beta 3 [462.00, 577.00]
+Принадлежность: Centauri Republic, Система Gorash [517.00, 498.00]
+Принадлежность: Centauri Republic, Система Cargan [555.00, 538.00]
+Принадлежность: Centauri Republic, Система Beta 2 [598.00, 578.00]
+Принадлежность: Centauri Republic, Система Bentat [670.00, 580.00]
+Принадлежность: Centauri Republic, Система Alpha 1 [730.00, 609.00]
+Принадлежность: Centauri Republic, Система Entat [730.00, 428.00]
+Принадлежность: Centauri Republic, Система Elatta [665.00, 514.00]
+Принадлежность: Centauri Republic, Система Centauri Prime [622.00, 475.00]
+Принадлежность: Centauri Republic, Система Rogoth [623.00, 423.00]
+Принадлежность: Centauri Republic, Система Alpha 2 [637.00, 410.00]
+Принадлежность: Centauri Republic, Система Marigol [636.00, 371.00]
+Принадлежность: Centauri Republic, Система Quadrant 8 [628.00, 335.00]
+Принадлежность: Centauri Republic, Система Polgrath [639.00, 301.00]
+Принадлежность: Centauri Republic, Система Lux Prime [566.00, 310.00]
+Принадлежность: Centauri Republic, Система Quadrant 17 [487.00, 323.00]
+Принадлежность: Centauri Republic, Система Quadrant 32 [458.00, 409.00]
+Принадлежность: Centauri Republic, Система Quadrant 27 [375.00, 435.00]
+Принадлежность: Centauri Republic, Система Quadrant 1 [355.00, 474.00]
+Принадлежность: Centauri Republic, Система Ragesh [468.00, 488.00]
+Принадлежность: Centauri Republic, Система Immolan [561.00, 479.00]
+Принадлежность: Centauri Republic, Система Amoh [528.00, 427.00]
+Принадлежность: Centauri Republic, Система Tolnania [573.00, 392.00]
+Принадлежность: Centauri Republic, Система Quadrant 14 [391.00, 491.00]
+Принадлежность: Narn Regime, Система Quadrant 24 [440.00, 436.00]
+Принадлежность: Narn Regime, Система Quadrant 37 [546.00, 400.00]
+Принадлежность: Narn Regime, Система T`Lin [440.00, 350.00]
+Принадлежность: Narn Regime, Система Maruth [350.00, 360.00]
+Принадлежность: Narn Regime, Система Quadrant 7 [280.00, 355.00]
+Принадлежность: Narn Regime, Система Carridun [230.00, 365.00]
+Принадлежность: Narn Regime, Система Tachuno [302.00, 380.00]
+Принадлежность: Narn Regime, Система Sorith [255.00, 391.00]
+Принадлежность: Narn Regime, Система Ardun [225.00, 421.00]
+Принадлежность: Narn Regime, Система Bargoth [278.00, 421.00]
+Принадлежность: Narn Regime, Система Prumith [320.00, 438.00]
+Принадлежность: Narn Regime, Система Binan [280.00, 493.00]
+Принадлежность: Narn Regime, Система Sigma [152.00, 530.00]
+Принадлежность: Narn Regime, Система Narn [280.00, 546.00]
+Принадлежность: Narn Regime, Система Una San [260.00, 575.00]
+Принадлежность: Narn Regime, Система Kotok [300.00, 588.00]
+Принадлежность: Narn Regime, Система Golia [620.00, 317.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Haruna [581.00, 290.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Themari [593.00, 415.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Antares [559.00, 429.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Holuva [552.00, 468.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Anasi [511.00, 375.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Corillan [470.00, 290.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Orillan [420.00, 285.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Shambah [440.00, 332.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Zhabar [375.00, 342.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Fendamar [420.00, 240.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Descartalos [470.00, 237.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Heptharg [492.00, 242.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Mokafa [492.00, 220.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Tithalis [446.00, 210.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Latig [460.00, 190.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Son Hoth [408.00, 133.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Ettamem [418.00, 121.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Melat [477.00, 142.00]
+Принадлежность: Pakmara Confederacy
+Сверхобъединение: United Federation of Planets, Система Androma [459.00, 91.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Revkos [462.00, 92.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Gromahr [526.00, 76.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Leshkrev [530.00, 82.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Lumat [550.00, 110.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Xochat [540.00, 120.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Angelos [550.00, 140.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Mellitra [540.00, 190.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Hilak [314.00, 321.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Balos [314.00, 254.00]
+Принадлежность: Baloshan Kingdom
+Сверхобъединение: United Federation of Planets, Система Utriel [321.00, 210.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Abba [350.00, 232.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Tirelus [398.00, 200.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Ren-kal`TA [240.00, 123.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Ohram`KHI [295.00, 108.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Brakos [196.00, 438.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ikata [221.00, 404.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Comac [200.00, 495.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ipsha [120.00, 474.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [48.00, 523.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [67.00, 326.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Cescan [208.00, 580.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Silkan [242.00, 572.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Zachai [180.00, 465.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система N`Chak`Fah [260.00, 605.00]
+Принадлежность: Gaim Inteligence
+Сверхобъединение: United Federation of Planets, Система Bestin [156.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система T`Lad`Tha [230.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система Vartas [100.00, 640.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Sorrin [10.00, 665.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Pa`Rl [92.00, 798.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Trestaka [31.00, 738.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Kitab [159.00, 742.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система <1> [368.00, 614.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <2> [378.00, 629.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <3> [328.00, 618.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <4> [338.00, 632.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <5> [315.00, 638.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <6> [273.00, 642.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <7> [293.00, 657.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire]
+2020-04-03 17:03:23,896 495  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-03 17:03:24,092 691  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 181ms. Found 5 JPA repository interfaces.
+2020-04-03 17:03:24,485 1084 [JavaFX-Launcher] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-03 17:03:24,552 1151 [JavaFX-Launcher] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version [WORKING]
+2020-04-03 17:03:24,729 1328 [JavaFX-Launcher] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-03 17:03:29,915 6514 [JavaFX-Launcher] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-04-03 17:03:30,375 6974 [JavaFX-Launcher] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator null
+2020-04-03 17:03:31,283 7882 [JavaFX-Launcher] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-03 17:03:31,292 7891 [JavaFX-Launcher] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-03 17:03:36,426 13025 [JavaFX Application Thread] INFO  r.a.r.m.c.MilitaryController - stateHoods: [Система Sol [320.00, 695.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Proxima [360.00, 710.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Wolf [341.00, 668.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross [395.00, 741.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Leonis [431.00, 687.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kanohi [461.00, 707.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Canton [465.00, 625.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система New London [468.00, 604.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Dakota [416.00, 600.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon [382.00, 579.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Tau Ceti [354.00, 606.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ceti [354.00, 629.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Eridani [322.00, 555.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon Ind [312.00, 568.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Altair [280.00, 590.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Sirius [301.00, 675.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Orion [280.00, 655.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Cooke [315.00, 731.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Regula [249.00, 730.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kapteya [177.00, 725.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross 128 [198.00, 757.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Beta Durani [269.00, 762.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Jericho [378.00, 779.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Signet [380.00, 809.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Deneb [390.00, 850.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Vega [520.00, 900.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Delphi [475.00, 801.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Norsa [485.00, 847.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eudu [502.00, 869.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Muga [571.00, 890.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tychola [642.00, 880.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tir [659.00, 843.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Zendamor [619.00, 830.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Klath [560.00, 820.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eshar [608.00, 791.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Davala Than [710.00, 815.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sorpigal [775.00, 771.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tavalan [644.00, 770.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Nocalo [503.00, 787.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Pagati [538.00, 761.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Shengol [548.00, 738.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Minbar [565.00, 715.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tr`Es`Na [562.00, 656.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Solta Gan [590.00, 676.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Drala Toth [580.00, 615.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Valusha [609.00, 623.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Trigati [660.00, 645.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sh`Lekk`Tha [542.00, 560.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Ralafe [627.00, 730.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tala [662.00, 702.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tro`Kact [690.00, 690.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Thessa [694.00, 727.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Batain [537.00, 667.00]
+Принадлежность: Centauri Republic, Система Courtor [482.00, 637.00]
+Принадлежность: Centauri Republic, Система Beta 3 [462.00, 577.00]
+Принадлежность: Centauri Republic, Система Gorash [517.00, 498.00]
+Принадлежность: Centauri Republic, Система Cargan [555.00, 538.00]
+Принадлежность: Centauri Republic, Система Beta 2 [598.00, 578.00]
+Принадлежность: Centauri Republic, Система Bentat [670.00, 580.00]
+Принадлежность: Centauri Republic, Система Alpha 1 [730.00, 609.00]
+Принадлежность: Centauri Republic, Система Entat [730.00, 428.00]
+Принадлежность: Centauri Republic, Система Elatta [665.00, 514.00]
+Принадлежность: Centauri Republic, Система Centauri Prime [622.00, 475.00]
+Принадлежность: Centauri Republic, Система Rogoth [623.00, 423.00]
+Принадлежность: Centauri Republic, Система Alpha 2 [637.00, 410.00]
+Принадлежность: Centauri Republic, Система Marigol [636.00, 371.00]
+Принадлежность: Centauri Republic, Система Quadrant 8 [628.00, 335.00]
+Принадлежность: Centauri Republic, Система Polgrath [639.00, 301.00]
+Принадлежность: Centauri Republic, Система Lux Prime [566.00, 310.00]
+Принадлежность: Centauri Republic, Система Quadrant 17 [487.00, 323.00]
+Принадлежность: Centauri Republic, Система Quadrant 32 [458.00, 409.00]
+Принадлежность: Centauri Republic, Система Quadrant 27 [375.00, 435.00]
+Принадлежность: Centauri Republic, Система Quadrant 1 [355.00, 474.00]
+Принадлежность: Centauri Republic, Система Ragesh [468.00, 488.00]
+Принадлежность: Centauri Republic, Система Immolan [561.00, 479.00]
+Принадлежность: Centauri Republic, Система Amoh [528.00, 427.00]
+Принадлежность: Centauri Republic, Система Tolnania [573.00, 392.00]
+Принадлежность: Centauri Republic, Система Quadrant 14 [391.00, 491.00]
+Принадлежность: Narn Regime, Система Quadrant 24 [440.00, 436.00]
+Принадлежность: Narn Regime, Система Quadrant 37 [546.00, 400.00]
+Принадлежность: Narn Regime, Система T`Lin [440.00, 350.00]
+Принадлежность: Narn Regime, Система Maruth [350.00, 360.00]
+Принадлежность: Narn Regime, Система Quadrant 7 [280.00, 355.00]
+Принадлежность: Narn Regime, Система Carridun [230.00, 365.00]
+Принадлежность: Narn Regime, Система Tachuno [302.00, 380.00]
+Принадлежность: Narn Regime, Система Sorith [255.00, 391.00]
+Принадлежность: Narn Regime, Система Ardun [225.00, 421.00]
+Принадлежность: Narn Regime, Система Bargoth [278.00, 421.00]
+Принадлежность: Narn Regime, Система Prumith [320.00, 438.00]
+Принадлежность: Narn Regime, Система Binan [280.00, 493.00]
+Принадлежность: Narn Regime, Система Sigma [152.00, 530.00]
+Принадлежность: Narn Regime, Система Narn [280.00, 546.00]
+Принадлежность: Narn Regime, Система Una San [260.00, 575.00]
+Принадлежность: Narn Regime, Система Kotok [300.00, 588.00]
+Принадлежность: Narn Regime, Система Golia [620.00, 317.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Haruna [581.00, 290.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Themari [593.00, 415.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Antares [559.00, 429.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Holuva [552.00, 468.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Anasi [511.00, 375.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Corillan [470.00, 290.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Orillan [420.00, 285.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Shambah [440.00, 332.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Zhabar [375.00, 342.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Fendamar [420.00, 240.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Descartalos [470.00, 237.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Heptharg [492.00, 242.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Mokafa [492.00, 220.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Tithalis [446.00, 210.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Latig [460.00, 190.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Son Hoth [408.00, 133.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Ettamem [418.00, 121.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Melat [477.00, 142.00]
+Принадлежность: Pakmara Confederacy
+Сверхобъединение: United Federation of Planets, Система Androma [459.00, 91.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Revkos [462.00, 92.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Gromahr [526.00, 76.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Leshkrev [530.00, 82.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Lumat [550.00, 110.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Xochat [540.00, 120.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Angelos [550.00, 140.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Mellitra [540.00, 190.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Hilak [314.00, 321.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Balos [314.00, 254.00]
+Принадлежность: Baloshan Kingdom
+Сверхобъединение: United Federation of Planets, Система Utriel [321.00, 210.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Abba [350.00, 232.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Tirelus [398.00, 200.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Ren-kal`TA [240.00, 123.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Ohram`KHI [295.00, 108.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Brakos [196.00, 438.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ikata [221.00, 404.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Comac [200.00, 495.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ipsha [120.00, 474.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [48.00, 523.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [67.00, 326.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Cescan [208.00, 580.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Silkan [242.00, 572.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Zachai [180.00, 465.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система N`Chak`Fah [260.00, 605.00]
+Принадлежность: Gaim Inteligence
+Сверхобъединение: United Federation of Planets, Система Bestin [156.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система T`Lad`Tha [230.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система Vartas [100.00, 640.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Sorrin [10.00, 665.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Pa`Rl [92.00, 798.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Trestaka [31.00, 738.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Kitab [159.00, 742.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система <1> [368.00, 614.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <2> [378.00, 629.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <3> [328.00, 618.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <4> [338.00, 632.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <5> [315.00, 638.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <6> [273.00, 642.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <7> [293.00, 657.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire]
+2020-04-03 17:04:15,818 357  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-03 17:04:15,966 505  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 138ms. Found 5 JPA repository interfaces.
+2020-04-03 17:04:16,240 779  [JavaFX-Launcher] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-03 17:04:16,280 819  [JavaFX-Launcher] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version [WORKING]
+2020-04-03 17:04:16,400 939  [JavaFX-Launcher] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-03 17:04:19,097 3636 [JavaFX-Launcher] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-04-03 17:04:19,401 3940 [JavaFX-Launcher] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator null
+2020-04-03 17:04:20,012 4551 [JavaFX-Launcher] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-03 17:04:20,018 4557 [JavaFX-Launcher] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-03 17:04:21,439 5978 [JavaFX Application Thread] INFO  r.a.r.m.c.MilitaryController - stateHoods: [Система Sol [320.00, 695.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Proxima [360.00, 710.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Wolf [341.00, 668.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross [395.00, 741.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Leonis [431.00, 687.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kanohi [461.00, 707.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Canton [465.00, 625.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система New London [468.00, 604.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Dakota [416.00, 600.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon [382.00, 579.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Tau Ceti [354.00, 606.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ceti [354.00, 629.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Eridani [322.00, 555.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon Ind [312.00, 568.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Altair [280.00, 590.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Sirius [301.00, 675.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Orion [280.00, 655.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Cooke [315.00, 731.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Regula [249.00, 730.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kapteya [177.00, 725.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross 128 [198.00, 757.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Beta Durani [269.00, 762.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Jericho [378.00, 779.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Signet [380.00, 809.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Deneb [390.00, 850.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Vega [520.00, 900.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Delphi [475.00, 801.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Norsa [485.00, 847.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eudu [502.00, 869.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Muga [571.00, 890.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tychola [642.00, 880.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tir [659.00, 843.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Zendamor [619.00, 830.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Klath [560.00, 820.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eshar [608.00, 791.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Davala Than [710.00, 815.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sorpigal [775.00, 771.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tavalan [644.00, 770.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Nocalo [503.00, 787.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Pagati [538.00, 761.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Shengol [548.00, 738.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Minbar [565.00, 715.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tr`Es`Na [562.00, 656.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Solta Gan [590.00, 676.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Drala Toth [580.00, 615.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Valusha [609.00, 623.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Trigati [660.00, 645.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sh`Lekk`Tha [542.00, 560.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Ralafe [627.00, 730.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tala [662.00, 702.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tro`Kact [690.00, 690.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Thessa [694.00, 727.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Batain [537.00, 667.00]
+Принадлежность: Centauri Republic, Система Courtor [482.00, 637.00]
+Принадлежность: Centauri Republic, Система Beta 3 [462.00, 577.00]
+Принадлежность: Centauri Republic, Система Gorash [517.00, 498.00]
+Принадлежность: Centauri Republic, Система Cargan [555.00, 538.00]
+Принадлежность: Centauri Republic, Система Beta 2 [598.00, 578.00]
+Принадлежность: Centauri Republic, Система Bentat [670.00, 580.00]
+Принадлежность: Centauri Republic, Система Alpha 1 [730.00, 609.00]
+Принадлежность: Centauri Republic, Система Entat [730.00, 428.00]
+Принадлежность: Centauri Republic, Система Elatta [665.00, 514.00]
+Принадлежность: Centauri Republic, Система Centauri Prime [622.00, 475.00]
+Принадлежность: Centauri Republic, Система Rogoth [623.00, 423.00]
+Принадлежность: Centauri Republic, Система Alpha 2 [637.00, 410.00]
+Принадлежность: Centauri Republic, Система Marigol [636.00, 371.00]
+Принадлежность: Centauri Republic, Система Quadrant 8 [628.00, 335.00]
+Принадлежность: Centauri Republic, Система Polgrath [639.00, 301.00]
+Принадлежность: Centauri Republic, Система Lux Prime [566.00, 310.00]
+Принадлежность: Centauri Republic, Система Quadrant 17 [487.00, 323.00]
+Принадлежность: Centauri Republic, Система Quadrant 32 [458.00, 409.00]
+Принадлежность: Centauri Republic, Система Quadrant 27 [375.00, 435.00]
+Принадлежность: Centauri Republic, Система Quadrant 1 [355.00, 474.00]
+Принадлежность: Centauri Republic, Система Ragesh [468.00, 488.00]
+Принадлежность: Centauri Republic, Система Immolan [561.00, 479.00]
+Принадлежность: Centauri Republic, Система Amoh [528.00, 427.00]
+Принадлежность: Centauri Republic, Система Tolnania [573.00, 392.00]
+Принадлежность: Centauri Republic, Система Quadrant 14 [391.00, 491.00]
+Принадлежность: Narn Regime, Система Quadrant 24 [440.00, 436.00]
+Принадлежность: Narn Regime, Система Quadrant 37 [546.00, 400.00]
+Принадлежность: Narn Regime, Система T`Lin [440.00, 350.00]
+Принадлежность: Narn Regime, Система Maruth [350.00, 360.00]
+Принадлежность: Narn Regime, Система Quadrant 7 [280.00, 355.00]
+Принадлежность: Narn Regime, Система Carridun [230.00, 365.00]
+Принадлежность: Narn Regime, Система Tachuno [302.00, 380.00]
+Принадлежность: Narn Regime, Система Sorith [255.00, 391.00]
+Принадлежность: Narn Regime, Система Ardun [225.00, 421.00]
+Принадлежность: Narn Regime, Система Bargoth [278.00, 421.00]
+Принадлежность: Narn Regime, Система Prumith [320.00, 438.00]
+Принадлежность: Narn Regime, Система Binan [280.00, 493.00]
+Принадлежность: Narn Regime, Система Sigma [152.00, 530.00]
+Принадлежность: Narn Regime, Система Narn [280.00, 546.00]
+Принадлежность: Narn Regime, Система Una San [260.00, 575.00]
+Принадлежность: Narn Regime, Система Kotok [300.00, 588.00]
+Принадлежность: Narn Regime, Система Golia [620.00, 317.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Haruna [581.00, 290.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Themari [593.00, 415.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Antares [559.00, 429.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Holuva [552.00, 468.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Anasi [511.00, 375.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Corillan [470.00, 290.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Orillan [420.00, 285.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Shambah [440.00, 332.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Zhabar [375.00, 342.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Fendamar [420.00, 240.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Descartalos [470.00, 237.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Heptharg [492.00, 242.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Mokafa [492.00, 220.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Tithalis [446.00, 210.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Latig [460.00, 190.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Son Hoth [408.00, 133.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Ettamem [418.00, 121.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Melat [477.00, 142.00]
+Принадлежность: Pakmara Confederacy
+Сверхобъединение: United Federation of Planets, Система Androma [459.00, 91.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Revkos [462.00, 92.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Gromahr [526.00, 76.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Leshkrev [530.00, 82.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Lumat [550.00, 110.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Xochat [540.00, 120.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Angelos [550.00, 140.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Mellitra [540.00, 190.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Hilak [314.00, 321.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Balos [314.00, 254.00]
+Принадлежность: Baloshan Kingdom
+Сверхобъединение: United Federation of Planets, Система Utriel [321.00, 210.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Abba [350.00, 232.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Tirelus [398.00, 200.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Ren-kal`TA [240.00, 123.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Ohram`KHI [295.00, 108.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Brakos [196.00, 438.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ikata [221.00, 404.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Comac [200.00, 495.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ipsha [120.00, 474.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [48.00, 523.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [67.00, 326.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Cescan [208.00, 580.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Silkan [242.00, 572.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Zachai [180.00, 465.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система N`Chak`Fah [260.00, 605.00]
+Принадлежность: Gaim Inteligence
+Сверхобъединение: United Federation of Planets, Система Bestin [156.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система T`Lad`Tha [230.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система Vartas [100.00, 640.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Sorrin [10.00, 665.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Pa`Rl [92.00, 798.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Trestaka [31.00, 738.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Kitab [159.00, 742.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система <1> [368.00, 614.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <2> [378.00, 629.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <3> [328.00, 618.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <4> [338.00, 632.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <5> [315.00, 638.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <6> [273.00, 642.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система <7> [293.00, 657.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire]
+2020-04-03 18:24:11,617 4796156 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (152, 'варвар', 0, 0, 0, 401.0, 651.0); успешно сохранен в файл
+2020-04-03 18:54:18,067 6602606 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (153, 'Comac', 15, 1, 3, 170.66666666666666, 388.6666666666667); успешно сохранен в файл
+2020-04-03 19:43:39,428 9563967 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (154, 'Pantrissa', 0, 0, 3, 423.6666666666667, 583.0); успешно сохранен в файл
+2020-04-03 19:44:29,278 9613817 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (155, 'Wanduk', 0, 0, 3, 437.6666666666667, 598.0); успешно сохранен в файл
+2020-04-03 19:45:16,454 9660993 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (156, 'Zantrisa', 0, 0, 3, 427.0, 613.3333333333334); успешно сохранен в файл
+2020-04-03 19:45:51,150 9695689 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (157, 'Urtiri', 0, 0, 3, 413.3333333333333, 612.0); успешно сохранен в файл
+2020-04-03 19:46:28,305 9732844 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (158, 'Fodoro', 0, 0, 3, 396.6666666666667, 603.3333333333334); успешно сохранен в файл
+2020-04-03 19:47:13,017 9777556 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (159, 'Bertran', 0, 0, 3, 390.3333333333333, 590.0); успешно сохранен в файл
+2020-04-03 19:47:51,692 9816231 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (160, 'Yulto', 0, 0, 3, 412.6666666666667, 628.3333333333334); успешно сохранен в файл
+2020-04-03 19:48:25,877 9850416 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (161, 'Iolo', 0, 0, 3, 449.0, 618.6666666666666); успешно сохранен в файл
+2020-04-03 19:50:28,036 9972575 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (162, 'Maelstorm', 0, 0, 3, 434.6666666666667, 637.0); успешно сохранен в файл
+2020-04-03 19:51:08,072 10012611 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (163, 'Ukara', 0, 0, 3, 406.0, 657.0); успешно сохранен в файл
+2020-04-03 19:52:04,798 10069337 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (164, 'Huju', 0, 0, 3, 417.6666666666667, 676.6666666666666); успешно сохранен в файл
+2020-04-03 19:53:12,165 10136704 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (165, 'Eternus', 0, 0, 3, 427.6666666666667, 697.3333333333334); успешно сохранен в файл
+2020-04-03 19:54:09,492 10194031 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (166, 'Boron', 0, 0, 3, 458.3333333333333, 665.0); успешно сохранен в файл
+2020-04-03 19:54:57,128 10241667 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (167, 'Abidax', 0, 0, 3, 470.3333333333333, 679.6666666666666); успешно сохранен в файл
+2020-04-03 19:58:05,452 10429991 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (168, 'Jujulak', 0, 0, 2, 488.6666666666667, 669.0); успешно сохранен в файл
+2020-04-03 19:58:50,352 10474891 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (169, 'Lomad', 0, 0, 3, 498.0, 697.6666666666666); успешно сохранен в файл
+2020-04-03 19:59:30,778 10515317 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (170, 'Qualor', 0, 0, 3, 519.0, 703.3333333333334); успешно сохранен в файл
+2020-04-03 20:01:28,310 10632849 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (171, 'Bartok', 0, 0, 3, 414.0, 713.3333333333334); успешно сохранен в файл
+2020-04-03 20:03:20,134 10744673 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (172, 'Resshark', 0, 0, 3, 397.3333333333333, 702.3333333333334); успешно сохранен в файл
+2020-04-03 20:04:39,856 10824395 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (173, 'Percina', 0, 0, 3, 408.0, 723.3333333333334); успешно сохранен в файл
+2020-04-03 20:05:16,183 10860722 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (174, 'Polark', 0, 0, 3, 428.3333333333333, 733.0); успешно сохранен в файл
+2020-04-03 20:06:25,158 10929697 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (175, 'Karnak', 0, 0, 3, 418.0, 747.6666666666666); успешно сохранен в файл
+2020-04-03 20:07:38,029 11002568 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (176, 'Beliphon', 0, 0, 3, 392.6666666666667, 722.3333333333334); успешно сохранен в файл
+2020-04-03 20:08:22,691 11047230 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (177, 'Beliphon', 0, 0, 3, 393.0, 721.6666666666666); успешно сохранен в файл
+2020-04-03 20:13:40,735 11365274 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (178, 'Krakov', 22, 0, 2, 367.0, 728.0); успешно сохранен в файл
+2020-04-03 20:16:48,027 11552566 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (179, 'Krakov', 22, 0, 2, 367.3333333333333, 722.6666666666666); успешно сохранен в файл
+2020-04-03 21:43:05,965 16730504 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (180, 'Lornak', 0, 0, 3, 368.0, 743.0); успешно сохранен в файл
+2020-04-03 21:43:46,307 16770846 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (181, 'Olontra', 0, 0, 3, 390.6666666666667, 750.6666666666666); успешно сохранен в файл
+2020-04-03 21:45:06,909 16851448 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (182, 'Neckron', 0, 0, 3, 398.0, 765.3333333333334); успешно сохранен в файл
+2020-04-03 21:45:48,451 16892990 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (183, 'Iktal', 0, 0, 3, 378.0, 760.0); успешно сохранен в файл
+2020-04-03 21:49:42,084 17126623 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (184, 'Johanas', 0, 0, 3, 361.0, 764.3333333333334); успешно сохранен в файл
+2020-04-03 21:50:36,729 17181268 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (185, 'Brama', 0, 0, 3, 347.0, 763.0); успешно сохранен в файл
+2020-04-03 21:51:12,408 17216947 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (186, 'Quetzal', 0, 0, 3, 327.3333333333333, 752.6666666666666); успешно сохранен в файл
+2020-04-03 21:51:42,951 17247490 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (187, 'Hespant', 0, 0, 3, 318.6666666666667, 768.3333333333334); успешно сохранен в файл
+2020-04-03 21:52:22,968 17287507 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (188, 'Infernus', 0, 0, 3, 342.6666666666667, 789.0); успешно сохранен в файл
+2020-04-03 21:54:38,422 17422961 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (189, 'Yorkshire', 22, 0, 2, 377.0, 608.3333333333334); успешно сохранен в файл
+2020-04-03 21:55:30,256 17474795 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (190, 'New Texas', 22, 0, 2, 394.6666666666667, 627.6666666666666); успешно сохранен в файл
+2020-04-03 21:56:08,770 17513309 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (191, 'New Texas', 22, 0, 2, 393.0, 626.0); успешно сохранен в файл
+2020-04-03 21:56:37,615 17542154 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (192, 'New Texas', 22, 0, 2, 392.3333333333333, 622.3333333333334); успешно сохранен в файл
+2020-04-03 21:57:24,375 17588914 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (193, 'Verdin Junction', 22, 0, 2, 362.3333333333333, 622.0); успешно сохранен в файл
+2020-04-03 21:58:28,290 17652829 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (194, 'Verdin Junction', 22, 0, 2, 362.0, 621.0); успешно сохранен в файл
+2020-04-03 21:59:17,683 17702222 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (195, 'Verdin Junction', 22, 0, 2, 360.3333333333333, 621.6666666666666); успешно сохранен в файл
+2020-04-03 21:59:51,012 17735551 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (196, 'Verdin Junction', 22, 0, 2, 359.0, 619.3333333333334); успешно сохранен в файл
+2020-04-03 22:00:28,548 17773087 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (197, 'Angeles', 22, 0, 2, 377.3333333333333, 634.3333333333334); успешно сохранен в файл
+2020-04-03 22:01:29,212 17833751 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (198, 'Rigel', 22, 0, 2, 361.6666666666667, 648.3333333333334); успешно сохранен в файл
+2020-04-03 22:01:55,662 17860201 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (199, 'Patekron', 22, 0, 2, 357.0, 664.3333333333334); успешно сохранен в файл
+2020-04-03 22:03:24,634 17949173 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (200, 'Parnasus', 22, 0, 2, 336.6666666666667, 677.6666666666666); успешно сохранен в файл
+2020-04-03 22:04:25,217 18009756 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (201, 'Tyron', 22, 0, 2, 359.6666666666667, 685.0); успешно сохранен в файл
+2020-04-03 22:05:15,040 18059579 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (202, 'Hades', 22, 0, 2, 345.6666666666667, 714.0); успешно сохранен в файл
+2020-04-03 22:06:00,159 18104698 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (203, 'Hades', 22, 0, 2, 342.0, 718.0); успешно сохранен в файл
+2020-04-03 22:07:03,070 18167609 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (204, 'Pleides', 22, 0, 2, 389.0, 685.0); успешно сохранен в файл
+2020-04-03 22:08:48,455 18272994 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (205, 'Oloron', 22, 0, 2, 347.3333333333333, 742.6666666666666); успешно сохранен в файл
+2020-04-03 22:21:44,447 377  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2020-04-03 22:21:44,595 525  [JavaFX-Launcher] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 138ms. Found 5 JPA repository interfaces.
+2020-04-03 22:21:44,848 778  [JavaFX-Launcher] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-04-03 22:21:44,887 817  [JavaFX-Launcher] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version [WORKING]
+2020-04-03 22:21:45,006 936  [JavaFX-Launcher] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-04-03 22:21:47,603 3533 [JavaFX-Launcher] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2020-04-03 22:21:47,874 3804 [JavaFX-Launcher] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator null
+2020-04-03 22:21:48,447 4377 [JavaFX-Launcher] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-04-03 22:21:48,453 4383 [JavaFX-Launcher] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-03 22:21:49,951 5881 [JavaFX Application Thread] INFO  r.a.r.m.c.MilitaryController - stateHoods: [Система Sol [320.00, 695.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Proxima [360.00, 710.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Wolf [341.00, 668.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross [395.00, 741.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Leonis [431.00, 687.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kanohi [461.00, 707.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Canton [465.00, 625.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система New London [468.00, 604.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Dakota [416.00, 600.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon [382.00, 579.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Tau Ceti [354.00, 606.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ceti [354.00, 629.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Eridani [322.00, 555.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Epsilon Ind [312.00, 568.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Altair [280.00, 590.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Sirius [301.00, 675.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Orion [280.00, 655.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Cooke [315.00, 731.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Regula [249.00, 730.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Kapteya [177.00, 725.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ross 128 [198.00, 757.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Beta Durani [269.00, 762.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Jericho [378.00, 779.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Signet [380.00, 809.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Deneb [390.00, 850.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Vega [520.00, 900.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Delphi [475.00, 801.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Norsa [485.00, 847.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eudu [502.00, 869.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Muga [571.00, 890.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tychola [642.00, 880.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tir [659.00, 843.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Zendamor [619.00, 830.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Klath [560.00, 820.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Eshar [608.00, 791.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Davala Than [710.00, 815.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sorpigal [775.00, 771.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tavalan [644.00, 770.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Nocalo [503.00, 787.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Pagati [538.00, 761.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Shengol [548.00, 738.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Minbar [565.00, 715.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tr`Es`Na [562.00, 656.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Solta Gan [590.00, 676.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Drala Toth [580.00, 615.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Valusha [609.00, 623.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Trigati [660.00, 645.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Sh`Lekk`Tha [542.00, 560.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Ralafe [627.00, 730.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tala [662.00, 702.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Tro`Kact [690.00, 690.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Thessa [694.00, 727.00]
+Принадлежность: Minbari Federation
+Сверхобъединение: United Federation of Planets, Система Batain [537.00, 667.00]
+Принадлежность: Centauri Republic, Система Courtor [482.00, 637.00]
+Принадлежность: Centauri Republic, Система Beta 3 [462.00, 577.00]
+Принадлежность: Centauri Republic, Система Gorash [517.00, 498.00]
+Принадлежность: Centauri Republic, Система Cargan [555.00, 538.00]
+Принадлежность: Centauri Republic, Система Beta 2 [598.00, 578.00]
+Принадлежность: Centauri Republic, Система Bentat [670.00, 580.00]
+Принадлежность: Centauri Republic, Система Alpha 1 [730.00, 609.00]
+Принадлежность: Centauri Republic, Система Entat [730.00, 428.00]
+Принадлежность: Centauri Republic, Система Elatta [665.00, 514.00]
+Принадлежность: Centauri Republic, Система Centauri Prime [622.00, 475.00]
+Принадлежность: Centauri Republic, Система Rogoth [623.00, 423.00]
+Принадлежность: Centauri Republic, Система Alpha 2 [637.00, 410.00]
+Принадлежность: Centauri Republic, Система Marigol [636.00, 371.00]
+Принадлежность: Centauri Republic, Система Quadrant 8 [628.00, 335.00]
+Принадлежность: Centauri Republic, Система Polgrath [639.00, 301.00]
+Принадлежность: Centauri Republic, Система Lux Prime [566.00, 310.00]
+Принадлежность: Centauri Republic, Система Quadrant 17 [487.00, 323.00]
+Принадлежность: Centauri Republic, Система Quadrant 32 [458.00, 409.00]
+Принадлежность: Centauri Republic, Система Quadrant 27 [375.00, 435.00]
+Принадлежность: Centauri Republic, Система Quadrant 1 [355.00, 474.00]
+Принадлежность: Centauri Republic, Система Ragesh [468.00, 488.00]
+Принадлежность: Centauri Republic, Система Immolan [561.00, 479.00]
+Принадлежность: Centauri Republic, Система Amoh [528.00, 427.00]
+Принадлежность: Centauri Republic, Система Tolnania [573.00, 392.00]
+Принадлежность: Centauri Republic, Система Quadrant 14 [391.00, 491.00]
+Принадлежность: Narn Regime, Система Quadrant 24 [440.00, 436.00]
+Принадлежность: Narn Regime, Система Quadrant 37 [546.00, 400.00]
+Принадлежность: Narn Regime, Система T`Lin [440.00, 350.00]
+Принадлежность: Narn Regime, Система Maruth [350.00, 360.00]
+Принадлежность: Narn Regime, Система Quadrant 7 [280.00, 355.00]
+Принадлежность: Narn Regime, Система Carridun [230.00, 365.00]
+Принадлежность: Narn Regime, Система Tachuno [302.00, 380.00]
+Принадлежность: Narn Regime, Система Sorith [255.00, 391.00]
+Принадлежность: Narn Regime, Система Ardun [225.00, 421.00]
+Принадлежность: Narn Regime, Система Bargoth [278.00, 421.00]
+Принадлежность: Narn Regime, Система Prumith [320.00, 438.00]
+Принадлежность: Narn Regime, Система Binan [280.00, 493.00]
+Принадлежность: Narn Regime, Система Sigma [152.00, 530.00]
+Принадлежность: Narn Regime, Система Narn [280.00, 546.00]
+Принадлежность: Narn Regime, Система Una San [260.00, 575.00]
+Принадлежность: Narn Regime, Система Kotok [300.00, 588.00]
+Принадлежность: Narn Regime, Система Golia [620.00, 317.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Haruna [581.00, 290.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Themari [593.00, 415.00]
+Принадлежность: Golian Hordes
+Сверхобъединение: United Federation of Planets, Система Antares [559.00, 429.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Holuva [552.00, 468.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Anasi [511.00, 375.00]
+Принадлежность: Antarian Empire
+Сверхобъединение: United Federation of Planets, Система Corillan [470.00, 290.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Orillan [420.00, 285.00]
+Принадлежность: Corlani Democracy
+Сверхобъединение: United Federation of Planets, Система Shambah [440.00, 332.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Zhabar [375.00, 342.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Fendamar [420.00, 240.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Descartalos [470.00, 237.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Heptharg [492.00, 242.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Mokafa [492.00, 220.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Tithalis [446.00, 210.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Latig [460.00, 190.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Son Hoth [408.00, 133.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Ettamem [418.00, 121.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Melat [477.00, 142.00]
+Принадлежность: Pakmara Confederacy
+Сверхобъединение: United Federation of Planets, Система Androma [459.00, 91.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Revkos [462.00, 92.00]
+Принадлежность: Hurr Empire
+Сверхобъединение: United Federation of Planets, Система Gromahr [526.00, 76.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Leshkrev [530.00, 82.00]
+Принадлежность: Grame Cooperative
+Сверхобъединение: United Federation of Planets, Система Lumat [550.00, 110.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Xochat [540.00, 120.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Angelos [550.00, 140.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Mellitra [540.00, 190.00]
+Принадлежность: Lumati Imperium
+Сверхобъединение: United Federation of Planets, Система Hilak [314.00, 321.00]
+Принадлежность: Drazi Empire
+Сверхобъединение: United Federation of Planets, Система Balos [314.00, 254.00]
+Принадлежность: Baloshan Kingdom
+Сверхобъединение: United Federation of Planets, Система Utriel [321.00, 210.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Abba [350.00, 232.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Tirelus [398.00, 200.00]
+Принадлежность: Abbai Republic
+Сверхобъединение: United Federation of Planets, Система Ren-kal`TA [240.00, 123.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Ohram`KHI [295.00, 108.00]
+Принадлежность: Tal-Kona-Sha Colonials
+Сверхобъединение: United Federation of Planets, Система Brakos [196.00, 438.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ikata [221.00, 404.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Comac [200.00, 495.00]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Ipsha [120.00, 474.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [48.00, 523.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Eklor [67.00, 326.00]
+Принадлежность: Ipsha Socialism
+Сверхобъединение: United Federation of Planets, Система Cescan [208.00, 580.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Silkan [242.00, 572.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система Zachai [180.00, 465.00]
+Принадлежность: Cescar Empire
+Сверхобъединение: United Federation of Planets, Система N`Chak`Fah [260.00, 605.00]
+Принадлежность: Gaim Inteligence
+Сверхобъединение: United Federation of Planets, Система Bestin [156.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система T`Lad`Tha [230.00, 700.00]
+Принадлежность: Descari Monarchy
+Сверхобъединение: United Federation of Planets, Система Vartas [100.00, 640.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Sorrin [10.00, 665.00]
+Принадлежность: Llot Democracy
+Сверхобъединение: United Federation of Planets, Система Pa`Rl [92.00, 798.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Trestaka [31.00, 738.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Kitab [159.00, 742.00]
+Принадлежность: Yolu Confederation
+Сверхобъединение: United Federation of Planets, Система Comac [170.67, 388.67]
+Принадлежность: Brakiri Industrialism
+Сверхобъединение: United Federation of Planets, Система Pantrissa [423.67, 583.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Wanduk [437.67, 598.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Zantrisa [427.00, 613.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Urtiri [413.33, 612.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Fodoro [396.67, 603.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Bertran [390.33, 590.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Yulto [412.67, 628.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Iolo [449.00, 618.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Maelstorm [434.67, 637.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Ukara [406.00, 657.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Huju [417.67, 676.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Eternus [427.67, 697.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Boron [458.33, 665.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Abidax [470.33, 679.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Jujulak [488.67, 669.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Lomad [498.00, 697.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Qualor [519.00, 703.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Bartok [414.00, 713.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Resshark [397.33, 702.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Percina [408.00, 723.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Polark [428.33, 733.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Karnak [418.00, 747.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Beliphon [393.00, 721.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Krakov [367.33, 722.67]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Lornak [368.00, 743.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Olontra [390.67, 750.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Neckron [398.00, 765.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Iktal [378.00, 760.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Johanas [361.00, 764.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Brama [347.00, 763.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Quetzal [327.33, 752.67]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Hespant [318.67, 768.33]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Infernus [342.67, 789.00]
+Принадлежность: Earth Alliance
+Сверхобъединение: Galactic Empire, Система Yorkshire [377.00, 608.33]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система New Texas [392.33, 622.33]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Verdin Junction [359.00, 619.33]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Angeles [377.33, 634.33]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Rigel [361.67, 648.33]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Patekron [357.00, 664.33]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Parnasus [336.67, 677.67]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Tyron [359.67, 685.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Hades [342.00, 718.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Pleides [389.00, 685.00]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire, Система Oloron [347.33, 742.67]
+Принадлежность: Terran Confederation
+Сверхобъединение: Galactic Empire]
+2020-04-03 23:07:38,327 2754257 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (216, 'Pleides', 22, 0, 2, 287.0, 687.3333333333334); успешно сохранен в файл
+2020-04-03 23:09:07,404 2843334 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (217, 'Pleides', 22, 0, 2, 285.6666666666667, 685.3333333333334); успешно сохранен в файл
+2020-04-03 23:10:26,058 2921988 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (218, 'Patekron', 22, 0, 2, 261.0, 670.3333333333334); успешно сохранен в файл
+2020-04-03 23:11:25,709 2981639 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (219, 'Parnasus', 22, 0, 2, 241.0, 681.0); успешно сохранен в файл
+2020-04-03 23:13:01,243 3077173 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (220, 'Tyron', 22, 0, 2, 260.6666666666667, 691.0); успешно сохранен в файл
+2020-04-03 23:14:19,698 3155628 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (221, 'Hades', 22, 0, 2, 245.66666666666666, 705.3333333333334); успешно сохранен в файл
+2020-04-03 23:14:59,260 3195190 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (222, 'Krackov', 22, 0, 2, 270.6666666666667, 710.6666666666666); успешно сохранен в файл
+2020-04-03 23:16:26,751 3282681 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (223, 'Oloron', 22, 0, 2, 255.66666666666666, 724.3333333333334); успешно сохранен в файл
+2020-04-03 23:17:53,280 3369210 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (224, 'Brama', 0, 0, 3, 250.33333333333334, 740.3333333333334); успешно сохранен в файл
+2020-04-03 23:19:23,560 3459490 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (225, 'Johanas', 0, 0, 3, 270.6666666666667, 745.6666666666666); успешно сохранен в файл
+2020-04-03 23:20:18,809 3514739 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (226, 'Quetzal', 0, 0, 3, 235.0, 731.3333333333334); успешно сохранен в файл
+2020-04-03 23:20:59,498 3555428 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (227, 'Quetzal', 0, 0, 3, 230.33333333333334, 732.0); успешно сохранен в файл
+2020-04-03 23:21:36,659 3592589 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (228, 'Hesphant', 0, 0, 3, 224.66666666666666, 745.0); успешно сохранен в файл
+2020-04-03 23:24:20,578 3756508 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (229, 'Infernus', 0, 0, 3, 246.0, 765.0); успешно сохранен в файл
+2020-04-03 23:26:11,719 3867649 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (230, 'Lornak', 0, 0, 3, 275.0, 731.0); успешно сохранен в файл
+2020-04-03 23:27:43,067 3958997 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (231, 'Iktal', 0, 0, 3, 291.0, 741.0); успешно сохранен в файл
+2020-04-03 23:29:18,512 4054442 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (232, 'Neckron', 0, 0, 3, 310.3333333333333, 745.6666666666666); успешно сохранен в файл
+2020-04-03 23:30:22,988 4118918 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (233, 'Olontra', 0, 0, 3, 304.6666666666667, 735.6666666666666); успешно сохранен в файл
+2020-04-03 23:32:41,541 4257471 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (234, 'Karnak', 0, 0, 3, 335.3333333333333, 735.3333333333334); успешно сохранен в файл
+2020-04-03 23:34:03,909 4339839 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (235, 'Beliphon', 0, 0, 2, 300.6666666666667, 711.0); успешно сохранен в файл
+2020-04-03 23:35:15,787 4411717 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (236, 'Percina', 0, 0, 3, 325.3333333333333, 715.6666666666666); успешно сохранен в файл
+2020-04-03 23:37:17,679 4533609 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (237, 'Beliphon', 0, 0, 3, 300.6666666666667, 710.6666666666666); успешно сохранен в файл
+2020-04-03 23:38:20,981 4596911 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (238, 'Polark', 0, 0, 3, 345.0, 721.0); успешно сохранен в файл
+2020-04-03 23:41:48,004 4803934 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (239, 'Bartok', 0, 0, 3, 330.6666666666667, 701.0); успешно сохранен в файл
+2020-04-03 23:44:07,621 4943551 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (240, 'Resshrak', 0, 0, 3, 309.3333333333333, 689.0); успешно сохранен в файл
+2020-04-03 23:45:14,572 5010502 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (241, 'Eternus', 0, 0, 3, 345.3333333333333, 680.6666666666666); успешно сохранен в файл
+2020-04-03 23:46:49,887 5105817 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (242, 'Huju', 0, 0, 3, 330.3333333333333, 670.3333333333334); успешно сохранен в файл
+2020-04-03 23:48:23,812 5199742 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (243, 'Boron', 0, 0, 3, 360.6666666666667, 660.6666666666666); успешно сохранен в файл
+2020-04-03 23:48:56,782 5232712 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (244, 'Abidax', 0, 0, 3, 375.6666666666667, 666.0); успешно сохранен в файл
+2020-04-03 23:49:49,897 5285827 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (245, 'Abidax', 0, 0, 3, 375.6666666666667, 675.3333333333334); успешно сохранен в файл
+2020-04-03 23:51:22,640 5378570 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (246, 'Lomad', 0, 0, 3, 395.0, 695.0); успешно сохранен в файл
+2020-04-03 23:52:51,695 5467625 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (247, 'Qualor', 0, 0, 3, 415.0, 700.6666666666666); успешно сохранен в файл
+2020-04-03 23:53:54,644 5530574 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (248, 'Jujulak', 0, 0, 2, 390.6666666666667, 665.6666666666666); успешно сохранен в файл
+2020-04-03 23:56:32,597 5688527 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (249, 'Ukara', 0, 0, 3, 325.6666666666667, 650.6666666666666); успешно сохранен в файл
+2020-04-03 23:58:33,774 5809704 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (250, 'Rigel', 22, 0, 2, 270.6666666666667, 644.6666666666666); успешно сохранен в файл
+2020-04-03 23:59:31,736 5867666 [JavaFX Application Thread] INFO  r.a.r.m.c.CreateSystemDialogController - Запрос INSERT INTO Star_System(id, name, statehood_id, super_statehood_id, system_importance, coordinateX, coordinateY) VALUES (251, 'Verdin Junction', 22, 0, 2, 270.6666666666667, 624.6666666666666); успешно сохранен в файл
