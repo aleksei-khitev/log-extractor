@@ -3,10 +3,7 @@ package ru.akhitev.log.extractor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.*;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-
+import static java.util.Arrays.*;
 import static ru.akhitev.log.extractor.PropertyManager.STRINGS_TO_FIND_SEPARATOR;
 
 public class Launcher {
@@ -30,11 +27,10 @@ public class Launcher {
     }
 
     private void launch() {
-        for (String currentStringToFind : propertyManager.stringsToFind()) {
-            String [] stringsToFind = currentStringToFind.split(STRINGS_TO_FIND_SEPARATOR);
-            logger.info("Searching for: {}", currentStringToFind);
-            processStringToFind(stringsToFind);
-        }
+        stream(propertyManager.stringsToFind())
+                .peek(currentStringToFind -> logger.info("Searching for: {}", currentStringToFind))
+                .map(currentStringToFind -> currentStringToFind.split(STRINGS_TO_FIND_SEPARATOR))
+                .forEach(this::processStringToFind);
     }
 
     private void processStringToFind(String[] stringsToFind) {
