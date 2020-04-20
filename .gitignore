@@ -3,3 +3,9 @@
 /build/
 /build/classes/java/main/
 /build/classes/java/test/
+/log/
+/gradle/
+/gradle/wrapper/
+/.idea/
+/.idea/codeStyles/
+/tmp/

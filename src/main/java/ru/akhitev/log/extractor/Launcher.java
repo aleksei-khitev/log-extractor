@@ -38,27 +38,12 @@ public class Launcher {
     }
 
     private void processStringToFind(String[] stringsToFind) {
-        if (!Files.exists(Paths.get(propertyManager.folderForExtractedFiles()))) {
-            try {
-                Files.createDirectories(Paths.get(propertyManager.folderForExtractedFiles()));
-            } catch (IOException e) {
-                logger.error("Error while creating paths directories", e);
-            }
-        }
-        String fileName = String.format("%s/%s.txt", propertyManager.folderForExtractedFiles(), stringsToFind[0]);
-        if (new File(fileName).exists()) {
-            if (!new File(fileName).delete()) {
-                throw new RuntimeException("Cannot delete " + fileName, null);
-            }
-        }
-        try (FileWriter fileWriter = new FileWriter(fileName);
-             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-             PrintWriter printWriter = new PrintWriter(bufferedWriter)) {
-            LogSearcher logSearcher;
-            logSearcher = new LogSearcher(fileManager.sortedLogFiles(), stringsToFind, printWriter, propertyManager.additionalLinesToPrint());
-            logSearcher.search();
-        } catch (IOException e) {
-            logger.error("Error at file operation", e);
-        }
+        fileManager.executeForOutputFile(stringsToFind,
+                propertyManager.folderForExtractedFiles(),
+                printWriter -> {
+                    LogSearcher logSearcher;
+                    logSearcher = new LogSearcher(fileManager.sortedLogFiles(), stringsToFind, printWriter, propertyManager.additionalLinesToPrint());
+                    logSearcher.search();
+                });
     }
 }
