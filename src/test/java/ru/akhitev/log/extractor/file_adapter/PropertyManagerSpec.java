@@ -1,4 +1,4 @@
-package ru.akhitev.log.extractor;
+package ru.akhitev.log.extractor.file_adapter;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -6,8 +6,7 @@ import org.junit.Test;
 import java.io.File;
 
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.arrayContainingInAnyOrder;
-import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.*;
 
 public class PropertyManagerSpec {
     private PropertyManager propertyManager;
@@ -17,12 +16,6 @@ public class PropertyManagerSpec {
         File file = new File(PropertyManagerSpec.class.getClassLoader().getResource("extractor.properties").getFile());
         String absolutePath = file.getAbsolutePath();
         propertyManager = new PropertyManager(absolutePath);
-    }
-
-    @Test
-    public void given_fileWithProperties_when_stringsToFind_then_returnCorrectValue() {
-        assertThat(propertyManager.stringsToFind(),
-                arrayContainingInAnyOrder("[-1503132657];;=-1503132657,", "[-734557214];;=-734557214,", "EditSystemDialogController - Запрос UPDATE;;CreateSystemDialogController - Запрос INSERT INTO"));
     }
 
     @Test

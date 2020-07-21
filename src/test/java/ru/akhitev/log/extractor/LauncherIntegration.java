@@ -1,8 +1,8 @@
 package ru.akhitev.log.extractor;
 
-import org.hamcrest.MatcherAssert;
-import org.hamcrest.Matchers;
 import org.junit.Test;
+import ru.akhitev.log.extractor.console.Launcher;
+import ru.akhitev.log.extractor.file_adapter.PropertyManagerSpec;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,8 +1,8 @@
-package ru.akhitev.log.extractor;
+package ru.akhitev.log.extractor.file_adapter;
 
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+import ru.akhitev.log.extractor.file_adapter.LoggerFileNamesComparator;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

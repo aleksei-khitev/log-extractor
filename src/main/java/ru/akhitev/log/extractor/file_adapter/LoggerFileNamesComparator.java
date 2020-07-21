@@ -1,9 +1,9 @@
-package ru.akhitev.log.extractor;
+package ru.akhitev.log.extractor.file_adapter;
 
 import java.nio.file.Path;
 import java.util.Comparator;
 
-public class LoggerFileNamesComparator  implements Comparator<Path> {
+class LoggerFileNamesComparator  implements Comparator<Path> {
     private static final String LOG_FILE_SUFFIX = ".log";
 
     @Override
