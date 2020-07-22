@@ -1,4 +1,22 @@
-package ru.akhitev.log.extractor;
+/*
+ * Log Extractor is an organizer for a developer and other IT-specialists.
+ * Copyright (c) 2017 Aleksei Khitev (Хитёв Алексей Юрьевич).
+ *
+ * This file is part of IT-Organizer
+ *
+ * Log Extractor is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * Log Extractor is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package ru.akhitev.log.extractor.file_adapter;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -6,8 +24,7 @@ import org.junit.Test;
 import java.io.File;
 
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.hamcrest.Matchers.arrayContainingInAnyOrder;
-import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.*;
 
 public class PropertyManagerSpec {
     private PropertyManager propertyManager;
@@ -17,12 +34,6 @@ public class PropertyManagerSpec {
         File file = new File(PropertyManagerSpec.class.getClassLoader().getResource("extractor.properties").getFile());
         String absolutePath = file.getAbsolutePath();
         propertyManager = new PropertyManager(absolutePath);
-    }
-
-    @Test
-    public void given_fileWithProperties_when_stringsToFind_then_returnCorrectValue() {
-        assertThat(propertyManager.stringsToFind(),
-                arrayContainingInAnyOrder("[-1503132657];;=-1503132657,", "[-734557214];;=-734557214,", "EditSystemDialogController - Запрос UPDATE;;CreateSystemDialogController - Запрос INSERT INTO"));
     }
 
     @Test
