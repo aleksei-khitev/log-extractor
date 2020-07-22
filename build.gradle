@@ -33,3 +33,31 @@ dependencies {
     testCompile misc.hamcrestCore
     testCompile misc.hamcrestLib
 }
+
+task prepare_distr_dir {
+    dependsOn ':console-app:copyToLib'
+    dependsOn ':gui-app:copyToLib'
+    File distrib_dir = new File("distrib")
+    distrib_dir.mkdir()
+    distrib_dir = new File("distrib/log-extractor")
+    distrib_dir.mkdir()
+    distrib_dir = new File("distrib/log-extractor/lib")
+    distrib_dir.mkdir()
+}
+
+task copy_console_app_to_distr(type: Copy) {
+    dependsOn 'prepare_distr_dir'
+    from 'console-app/build/libs/'
+    into 'distrib/log-extractor/'
+}
+
+task copy_gui_app_to_distr(type: Copy) {
+    dependsOn 'prepare_distr_dir'
+    from 'gui-app/build/libs/'
+    into 'distrib/log-extractor/'
+}
+
+task make_distrib {
+    dependsOn 'copy_console_app_to_distr'
+    dependsOn 'copy_gui_app_to_distr'
+}

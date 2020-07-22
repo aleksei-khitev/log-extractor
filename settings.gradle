@@ -1,2 +1,6 @@
 rootProject.name = 'log-extractor'
+include 'business-logic'
+include 'file-adapter'
+include 'console-app'
+include 'gui-app'
 
