@@ -1,0 +1,39 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.akhitev'
+version '2.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project (':file-adapter')
+    compile misc.logback
+    compile misc.slf4jJcl
+    testCompile misc.junit
+    testCompile misc.hamcrestCore
+    testCompile misc.hamcrestLib
+}
+
+task copyRuntimeLibs(type: Copy) {
+    into "$buildDir/libs/lib/"
+    from configurations.compile
+}
+
+jar {
+    manifest {
+        attributes(
+                "Main-Class": "ru.akhitev.log.extractor.console.Launcher",
+                'Class-Path' : configurations.compile.collect { 'lib/' + it.getName() }.join(' ')
+        )
+    }
+}
+
+task copyToLib( type: Copy ) {
+    dependsOn(jar)
+    into "$buildDir/libs/lib"
+    from configurations.runtime
+}

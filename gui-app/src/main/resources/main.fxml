@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 Log Extractor is an organizer for a developer and other IT-specialists.
 Copyright (c) 2017 Aleksei Khitev (Хитёв Алексей Юрьевич).
@@ -16,8 +17,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 -->
-<?xml version="1.0" encoding="UTF-8"?>
-
 <?import javafx.scene.layout.*?>
 
 <?import javafx.scene.control.Button?>

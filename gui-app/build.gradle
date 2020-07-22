@@ -1,0 +1,29 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.akhitev'
+version '2.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project (':file-adapter')
+}
+
+jar {
+    manifest {
+        attributes(
+                "Main-Class": "ru.akhitev.log.extractor.gui.Launcher",
+                'Class-Path' : configurations.compile.collect { 'lib/' + it.getName() }.join(' ')
+        )
+    }
+}
+
+task copyToLib( type: Copy ) {
+    dependsOn(jar)
+    into "$buildDir/libs/lib"
+    from configurations.runtime
+}
